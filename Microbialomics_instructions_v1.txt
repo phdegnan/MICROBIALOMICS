@@ -17,7 +17,7 @@ Patrick Degnan (v1)
 
 1. Rationale
 The initial impetus for this series of program tools was to aggregate
-Human Gut Genomes sequenced by various groups and organize them in a
+Human Gut Microbial Genomes sequenced by various groups and organize them in a
 MySQL database using a common set of functional annotations. This
 database could then be used as the backend of a graphical genome browser
 (e.g., LWGV, GMOD) or other tools to analyze and understand genomes.

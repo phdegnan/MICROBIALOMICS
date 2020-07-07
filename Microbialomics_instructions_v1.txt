@@ -96,7 +96,7 @@ modifications will be required to the scripts (particularly glob and
 regex commands). 
 
 Check the completeness of the data files
-pre_process_genomes.pl 
+$ pre_process_genomes.pl 
 usage: pre_process_genomes.pl <list of folder names>
 
 Purpose: For incomplete GenBank / scaffolded genomes, confirm proper
@@ -194,7 +194,7 @@ be concatenated with genome.
 
 3A. Clean up and zip RefSeq files
 
-post_process_genomes.pl 
+$ post_process_genomes.pl 
 usage: post_process_genomes.pl <list of folder names>
 
 Purpose: Clean up output of run for incomplete GenBank / scaffolded genomes

@@ -3,7 +3,7 @@
 #    Script: process_new_genome.pl
 #    ___________________________________________________________________________
 #
-#    Version 0.3
+#    Version 1.0
 #
 #    Copyright (C) 2008-2009 Brian Muegge and Jeremiah Faith
 #		Patrick Degnan revised last 2014

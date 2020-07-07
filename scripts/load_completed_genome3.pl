@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 ##
 ##	Brian Muegge & J Faith 2008-2009
-## 	Patrick Degnan revised 2014
+## 	Patrick Degnan last revised 2014
 ##	load_completed_genome3.pl
 ##	Upload annotation data to MySQL database
 ##

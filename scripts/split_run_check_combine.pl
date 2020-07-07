@@ -3,7 +3,7 @@
 #    Script: split_run_check_combine.pl
 #    ___________________________________________________________________________
 #
-#    Version 0.2
+#    Version 1
 #
 #    Copyright (C) 2008-2009 Brian Muegge and Jeremiah Faith
 #	Additional changes to code made by Patrick Degnan 2011-2012
